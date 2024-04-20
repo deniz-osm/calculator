@@ -1,0 +1,14 @@
+/Users/annelie/Desktop/C# Prep/calculator/bin/Debug/net8.0/calculator
+/Users/annelie/Desktop/C# Prep/calculator/bin/Debug/net8.0/calculator.deps.json
+/Users/annelie/Desktop/C# Prep/calculator/bin/Debug/net8.0/calculator.runtimeconfig.json
+/Users/annelie/Desktop/C# Prep/calculator/bin/Debug/net8.0/calculator.dll
+/Users/annelie/Desktop/C# Prep/calculator/bin/Debug/net8.0/calculator.pdb
+/Users/annelie/Desktop/C# Prep/calculator/obj/Debug/net8.0/calculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/annelie/Desktop/C# Prep/calculator/obj/Debug/net8.0/calculator.AssemblyInfoInputs.cache
+/Users/annelie/Desktop/C# Prep/calculator/obj/Debug/net8.0/calculator.AssemblyInfo.cs
+/Users/annelie/Desktop/C# Prep/calculator/obj/Debug/net8.0/calculator.csproj.CoreCompileInputs.cache
+/Users/annelie/Desktop/C# Prep/calculator/obj/Debug/net8.0/calculator.dll
+/Users/annelie/Desktop/C# Prep/calculator/obj/Debug/net8.0/refint/calculator.dll
+/Users/annelie/Desktop/C# Prep/calculator/obj/Debug/net8.0/calculator.pdb
+/Users/annelie/Desktop/C# Prep/calculator/obj/Debug/net8.0/calculator.genruntimeconfig.cache
+/Users/annelie/Desktop/C# Prep/calculator/obj/Debug/net8.0/ref/calculator.dll
